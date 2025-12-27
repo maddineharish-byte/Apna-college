@@ -1,4 +1,4 @@
 # Apna-college
 My first repository.
 <br>
-Author:- Maddine Harish
+Author:- Maddine Harish ("MBU")
